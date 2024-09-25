@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #0073e6;
+    background-color: #e60000;
     color: white;
     padding: 10px 0;
 }
@@ -54,7 +54,7 @@ nav ul li img {
     overflow: hidden;
     object-fit: cover;
     pointer-events: none; /*desabilita ponteiro*/
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra à imagem */
+    box-shadow: 0 4px 8px rgba(231, 4, 212, 0.2); /* Adiciona uma sombra à imagem */
 }
 
 
@@ -87,5 +87,5 @@ main {
 }
 
 h1 {
-    color: #333;
+    color: #dc00c9;
 }
